@@ -1,0 +1,24 @@
+html {
+	font: normal 100%/1.5 sans-serif;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+
+	list-style-type: none;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	display: inline-block;
+	width: 6em;
+	padding: 1em;
+	background-color: #a9af04;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+}

@@ -1,0 +1,32 @@
+h1 {
+  background-color: limegreen;
+  padding: 0.5em;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  text-align: right;
+}
+
+nav a {
+  display: block;
+  width: 6em;
+  background-color: darkgreen;
+  color: white;
+  text-decoration: none;
+  padding: 0.5em;
+}
+
+nav a:hover {
+  background-color: limegreen;
+}
