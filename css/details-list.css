@@ -1,18 +1,18 @@
 html {
-	color: #333;
-	font: normal 100%/1.5 Georgia,serif;
+  color: #333;
+  font: normal 100%/1.5 Georgia,serif;
 }
 
 h1 {
-	color: #666;
+  color: #666;
 }
 
 .details-list li {
-	margin-bottom: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 .details-list i {
-	display: block;
-	font-weight: bold;
-	font-style: normal;
+  display: block;
+  font-weight: bold;
+  font-style: normal;
 }
